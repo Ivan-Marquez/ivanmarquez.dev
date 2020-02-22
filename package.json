@@ -1,0 +1,11 @@
+{
+  "name": "ivanmarquez.dev",
+  "version": "1.0.0",
+  "description": "portfolio website",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  }
+}
